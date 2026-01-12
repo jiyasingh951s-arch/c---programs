@@ -1,2 +1,1 @@
-# c---programs
-C programs from my college practice
+star_pattern.c
